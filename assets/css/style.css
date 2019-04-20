@@ -72,29 +72,9 @@ main {
 }
 
 
-/*PORTFOLIO CARDS*/
-.card-img-overlay {
-    top: initial;
-}
-
-.overlay {
-    background-color:#4aaaa5;
-    color: white;
-    text-align: center;
-    position: relative;
-    width: 240px;
-    top: -80px;
-    padding: 20px;
-}
-
 /*FORM*/
-input[type="text"], textarea{
-    width: 884px;
-    padding: 8px;
-    margin: 10px 0px 10px 0px;
-}
 
-input[type="button"]{
+button {
     background-color: #4aaaa5;
     color: white;
     border: none;
