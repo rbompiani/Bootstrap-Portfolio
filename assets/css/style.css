@@ -47,6 +47,11 @@ h1 {
     padding: 10px;
 }
 
+h5 {
+    background-color: #4aaaa5;
+    color: white;
+}
+
 /*FOOTER*/
 footer {
     background-color: #666666;
@@ -68,9 +73,8 @@ main {
 
 
 /*PORTFOLIO CARDS*/
-.card{
-    float: left;
-    margin: 40px 40px 0px 0px;
+.card-img-overlay {
+    top: initial;
 }
 
 .overlay {
